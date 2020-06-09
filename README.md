@@ -1,4 +1,4 @@
-# datamahasiswa
+# Data Mahasiswa
 
 A new Flutter project.
 
