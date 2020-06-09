@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "594476874917",
+    "firebase_url": "https://donaldtrump-5c2cc.firebaseio.com",
+    "project_id": "donaldtrump-5c2cc",
+    "storage_bucket": "donaldtrump-5c2cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594476874917:android:7ce2e5e9726f0bbfbc614c",
+        "android_client_info": {
+          "package_name": "com.example.datamahasiswa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594476874917-8ga29hgjkb9e1r4ssfgg9va407d27idn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB77H6A0xjwMY5Nfq6hl7uxBaqJIPuWyag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594476874917-8ga29hgjkb9e1r4ssfgg9va407d27idn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
